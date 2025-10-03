@@ -1,0 +1,2 @@
+box="nika"
+print(box)
